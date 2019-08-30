@@ -1,0 +1,5 @@
+A greedy algorithm is implemented in this assignment. At each step, the computer always places the tile 
+that can flip the most black tiles. 
+
+A dictionary is used to achieve this. When getting legal-move list, the program also records how many tiles can 
+be flipped.
